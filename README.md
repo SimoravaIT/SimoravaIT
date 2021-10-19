@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SimoravaIT
 - 👀 I’m interested in all the branch of the computer science
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me: simo.ravi95@live.it
+- 📫 How to reach me: ravasimoneit@gmail.com
 
 <!---
 SimoravaIT/SimoravaIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
