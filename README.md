@@ -15,6 +15,7 @@
   
 </div>
 
+<h3 align="center">on working part:</h3>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
