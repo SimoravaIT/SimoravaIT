@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @SimoravaIT <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 - 👀 I’m interested in all the branch of the computer science
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Dapp develop and React
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 📫 How to reach me: ravasimoneit@gmail.com
 - ⚡ What I like to do: **I like so much movies, reading**
