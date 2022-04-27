@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm @SimoravaIT <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center"> <img height="65" src="https://emoji.gg/assets/emoji/1110-golden-greeting.gif">  , I'm @SimoravaIT <img height="35" src="https://emoji.gg/assets/emoji/3776-old-computer.png"></h1>
 
 - 👀 I’m interested in all the branch of the computer science
-- 🌱 I’m currently learning Dapp develop and React
+- 🌱 I’m currently learning Dapp develop and React  
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 📫 How to reach me: ravasimoneit@gmail.com
 - ⚡ What I like to do: **I like so much movies, reading**
+- <a href="https://emoji.gg/emoji/7670-musicbeat"><img src="https://emoji.gg/assets/emoji/7670-musicbeat.gif" width="16px" height="16px" alt="MusicBeat"></a> Here I will put my current listening music on spotify
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
