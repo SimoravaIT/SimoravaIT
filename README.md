@@ -2,6 +2,7 @@
 
 - 👀 I’m interested in all the branch of the computer science
 - 🌱 I’m currently learning Dapp develop and React  
+- 💻 Visit my personal website: https://ravasimone.com
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 - 📫 How to reach me: ravasimoneit@gmail.com
 - ⚡ What I like to do: **I like so much movies, reading**
